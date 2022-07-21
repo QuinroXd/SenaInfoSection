@@ -1,0 +1,22 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.42857143;
+    color: #333333;
+}
+
+.cuadro_informacion {
+    border-radius: 10px;
+    background-color: #e6f1e2;
+    border: #bde3af solid 1px;
+    padding: 20px;
+    margin: 2%;
+}
+
+.subtitulo {
+    color: #5eb319;
+}
+
+.info_text {
+    margin-left: 15px;
+}
